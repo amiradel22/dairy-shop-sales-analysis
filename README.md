@@ -80,7 +80,8 @@ Recommendations
 ![Overview](Dairy%20Shop%20Sales%20Analese%20-%20overview.png)
 
 ### 2. Sales Performance
-![Sales Performance](Dairy%20Shop%20Sales%20Analese%20-Sales%20Perpefmance.png)
+![Sales Performance](Dairy%20Shop%20Sales%20Analysis%20-Sales%20Performance.png)
+
 
 ### 3. Customer & Branch Performance
 ![Customer & Branch Performance](Dairy%20Shop%20Sales%20Analysis%20-%20Customer%26%20Branch%20Performance.png)
