@@ -74,4 +74,13 @@ Recommendations
 5.Segment customers and review average invoice value to identify opportunities to increase sales and improve customer profitability.
 
 
+## Project Screenshots
 
+### 1. Overview
+![Overview](Dairy%20Shop%20Sales%20Analese%20-%20overview.png)
+
+### 2. Sales Performance
+![Sales Performance](Dairy%20Shop%20Sales%20Analese%20-Sales%20Perpefmance.png)
+
+### 3. Customer & Branch Performance
+![Customer & Branch Performance](Dairy%20Shop%20Sales%20Analysis%20-%20Customer%26%20Branch%20Performance.png)
